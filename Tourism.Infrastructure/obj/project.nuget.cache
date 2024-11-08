@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "MWsne5gE36gBLTktedOiY8Az5MYSBOsqWst6krU+q+9n6sdcpnZR9UPq4QcfYR1gwr2VbGAzOgzVzuDLcRa5wg==",
+  "success": true,
+  "projectFilePath": "/Users/kseniakashina/RiderProjects/Turism/Tourism.Infrastructure/Tourism.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/kseniakashina/.nuget/packages/dapper/2.1.44/dapper.2.1.44.nupkg.sha512",
+    "/Users/kseniakashina/.nuget/packages/dapper.contrib/2.0.78/dapper.contrib.2.0.78.nupkg.sha512",
+    "/Users/kseniakashina/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/kseniakashina/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/kseniakashina/.nuget/packages/npgsql/8.0.5/npgsql.8.0.5.nupkg.sha512",
+    "/Users/kseniakashina/.nuget/packages/system.diagnostics.diagnosticsource/8.0.0/system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "/Users/kseniakashina/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/kseniakashina/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/kseniakashina/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
